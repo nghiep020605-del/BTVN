@@ -27,7 +27,7 @@ body {
 }
 
 .login-container {
-    background: rgba(255, 255, 255, 0.85) url("login.jpg") no-repeat center center/cover;
+    background: rgba(245, 242, 242, 0.85) url("login.jpg") no-repeat center center/cover;
     padding: 30px;
     width: 350px;
     border-radius: 12px;
@@ -40,7 +40,7 @@ body {
 .login-container h2 {
     margin-bottom: 20px;
     font-weight: bold;
-    color: #000;
+    color: #ffffff;
 }
 
 .social-login {
@@ -70,6 +70,7 @@ body {
 .or {
     margin: 15px 0;
     font-weight: bold;
+    color: #ccc;
 }
 
 .input-box {
@@ -97,10 +98,11 @@ body {
     justify-content: space-between;
     font-size: 13px;
     margin: 10px 0;
+    color: #ccc;
 }
 
 .options a {
-    color: #1a73e8;
+    color: #d9dde2;
     text-decoration: none;
 }
 
@@ -122,8 +124,9 @@ body {
 .signup {
     margin-top: 15px;
     font-size: 14px;
+    color: #fff;
 }
 
 .signup a {
-    color: #1a73e8;
+    color: #ccd2d8;
 }
